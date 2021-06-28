@@ -1,5 +1,5 @@
 g="yo samuel, what's up?"
-q="WWWEYBT&IGHG)(*^%$@#@!?"
+q="Yo Samuel, what's up?"
 print(g.capitalize())
 print(q.count("a"))
 print(g.endswith("p"))
