@@ -1,5 +1,5 @@
 g="yo samuel, what's up?"
-q="WWWEYBT&IGHG)(*^%$@#@!?"
+q="Yo Samuel, what's up?"
 print(g.capitalize())
 print(q.count("a"))
 print(g.endswith("p"))
@@ -9,3 +9,8 @@ print(g.upper())
 print(q.lower())
 print(g.islower())
 print(q.isupper())
+print(g.isalpha())
+print(q.isnumeric())
+print(q.isspace())
+print(g.isdecimal())
+print(q.isprintable())
