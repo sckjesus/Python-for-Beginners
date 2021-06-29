@@ -16,4 +16,3 @@ print(q.isnumeric())
 print(q.isspace())
 print(g.isdecimal())
 print(q.isprintable())
-
