@@ -50,3 +50,7 @@ print(bool(3.00))
 print(bool(-3))
 print(bool(0))
 
+"""
+# Remember that every number other than 0 is true, and 0 is false, as you've seen here
+"""
+
