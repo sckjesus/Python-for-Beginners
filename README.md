@@ -1,2 +1,2 @@
 # Python-for-Beginners
-Learn Python with Github folders and YouTube videos
+Learn Python with Python folders on Github and YouTube videos
