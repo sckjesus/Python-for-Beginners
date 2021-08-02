@@ -16,5 +16,3 @@ print(a)
 # Printing "a"
 print("a")
 
-
-

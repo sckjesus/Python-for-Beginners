@@ -9,13 +9,12 @@ print("Hello\a World")
 
 
 # Printing "Hello" plus the \\f\\emale sign plus " World"
-print("Hello\f World")
+print("Hello \f World")
 
 
 
 # Printing "Hello" plus the male sign plus " World"
-print("Hello\v World")
-
+print("Hello \v World")
 
 
 # Printing "Hello"+ a \\t\\ab +" World"
